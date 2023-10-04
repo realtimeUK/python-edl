@@ -1,0 +1,9 @@
+{
+    "name": "python-edl",
+    "category": "THIRD_PARTY",
+    "sources": {
+        "python": [
+            "edl"
+        ]
+    }
+}
